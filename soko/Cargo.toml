@@ -1,0 +1,10 @@
+[package]
+name = "soko"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bumpalo = "3.19"
+miniquad = {path = "../miniquad"}
+nanoserde = "0.2"
+quad-snd = {path = "../quad-snd"}

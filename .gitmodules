@@ -1,0 +1,6 @@
+[submodule "quad-snd"]
+	path = quad-snd
+	url = git@github.com:BrunBytes/quad-snd.git
+[submodule "miniquad"]
+	path = miniquad
+	url = git@github.com:BrunBytes/miniquad.git
